@@ -1,0 +1,62 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Jun 28 21:26:23 2023
+# Process ID: 40496
+# Current directory: D:/PUA_CPU/SOC/vivado_xpr/project_1/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent40376 D:\PUA_CPU\SOC\vivado_xpr\project_1\project_1\project_1.xpr
+# Log file: D:/PUA_CPU/SOC/vivado_xpr/project_1/project_1/vivado.log
+# Journal file: D:/PUA_CPU/SOC/vivado_xpr/project_1/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/PUA_CPU/SOC/vivado_xpr/project_1/project_1/project_1.xpr
+INFO: [Project 1-313] Project file moved from 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/project_1' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/global.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/global.h'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/reg.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/reg.h'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/bus.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/bus.h'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_addr_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_addr_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_alu_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_alu_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_bus_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_bus_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_cpu_core.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_cpu_core.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_cpu_mid.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_cpu_mid.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_dcache_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_dcache_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_dcr_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_dcr_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_decoder_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_decoder_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_dtlb_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_dtlb_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_ejtag_tap_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_ejtag_tap_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_fetch_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_fetch_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_gr_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_gr_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_hb_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_hb_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_icache_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_icache_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_itlb_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_itlb_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_memqueue_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_memqueue_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_queue_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_queue_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_ram_bist.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_ram_bist.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_rs_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_rs_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/godson_tap_buffer_module.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/godson_tap_buffer_module.v'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/tools.v', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/tools.v'.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/MX25L6405D.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/MX25L6405D.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/ejtag_virtual_host.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/ejtag_virtual_host.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/vmac/mac_ram.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/vmac/mac_ram.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/vmac/mac2ahb_package.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/vmac/mac2ahb_package.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/vmac/mac_top.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/vmac/mac_top.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/nand_sim.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/nand_sim.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/uart_dev.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/uart_dev.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/vmac/virtual_mac.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/vmac/virtual_mac.v' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/ddr3_model_parameters.vh'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/ddr3_model_parameters.vh' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/ddr3_model.sv'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/ddr3_model.sv' instead.
+WARNING: [Project 1-312] File not found as 'D:/PUA_CPU/SOC/simu/testbench/godson_system.v'; using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/simu/testbench/godson_system.v' instead.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/bus.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/bus.h'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/reg.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/reg.h'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/PUA_CPU/SOC/rtl/cpu232/global.h', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/rtl/cpu232/global.h'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'D:/PUA_CPU/SOC/vivado_xpr/project_1/project_1/project_1.ip_user_files', nor could it be found using path 'D:/PUA_CPU/nscscc2023-group-mips/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/project_1/project_1.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:19 . Memory (MB): peak = 1086.359 ; gain = 379.344
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jun 28 21:28:58 2023...
